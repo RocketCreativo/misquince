@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -26,7 +25,7 @@
 <body>
   <div class="header">
     <a href="https://drive.google.com/uc?export=download&id=1CCxKRSeA_v9K4AK0RIGwQKr8hBCk-s0_" target="_blank">
-      Descargar PDF
+  
     </a>
   </div>
 
